@@ -1,3 +1,3 @@
 # WWDC 2015
-This was my submission for WWDC 2O15 Scholarship (Wish me luck ☺️)
+This was my submission for WWDC 2015 Scholarship (Wish me luck ☺️)
 
