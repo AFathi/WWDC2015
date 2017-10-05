@@ -1,7 +1,7 @@
 # WWDC 2015
-This was my submission for WWDC 2015 Scholarship (Accpeted)
+This was my submission for WWDC 2015 Scholarship (Accepted)
 
-##Screenshots
+## Screenshots
 ![alt tag](http://i.imgur.com/0CZkbu9.png)
 * * *
 ![alt tag](http://i.imgur.com/MpenAXl.png)
